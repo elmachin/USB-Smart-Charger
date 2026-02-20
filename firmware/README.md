@@ -316,20 +316,6 @@ This is the core feature preventing phantom power and LED flashing.
 3. Wait for charge: Port LED turns off after 3s below threshold
 4. Unplug/replug: Port LED turns back on
 ```
-
----
-
-## Future Enhancements
-
-**Potential improvements:**
-
-- [ ] UART debug output for current measurements
-- [ ] EEPROM storage for per-port usage statistics
-- [ ] Adjustable thresholds via I2C configuration
-- [ ] Temperature monitoring for thermal protection
-- [ ] USB-C PD negotiation support
-- [ ] Bluetooth status reporting
-
 ---
 
 ## License
