@@ -161,17 +161,6 @@ This project started from a real annoyance (flashing controller LEDs) and evolve
 - Handles all monitoring and control logic
 
 ---
-
-## Project Status
-
-**Hardware:** ✅ Complete - tested and functional  
-**Enclosure:** ✅ Complete - manufactured and assembled  
-**Firmware:** 
-
-**Documentation:** ✅ Complete  
-
----
-
 ## Applications & Impact
 
 **Personal Use:**
